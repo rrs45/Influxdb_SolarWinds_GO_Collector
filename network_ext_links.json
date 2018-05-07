@@ -1,0 +1,13 @@
+[
+  {"site": "xxx",
+  "links" : [{"device":"aaa", "port":"xe-1/0/1.0", "desc":"ZZZZ"},
+    {"device":"bbb", "port":"xe-1/0/1.0", "desc":"ZZZZ"},
+    {"device": "ccc", "port":"xe-1/0/2", "desc":"ZZZZ"},
+    {"device": "ddd", "port":"xe-1/0/2.100", "desc":"ZZZZ"}]},
+    
+    {"site" : "yyy",
+    "links" : [{"device":"jjjjjj", "port":"xe-1/0/1", "desc":"ZZZZ"},
+     {"device":"fff", "port":"xe-1/0/2", "desc":"rrrrrrr"},
+     {"device":"ggg", "port":"xe-1/0/1", "desc":"eeeeee"},
+     {"device":"Rttt", "port":"xe-1/0/2", "desc":"uuuuuuuu"}]}
+]
